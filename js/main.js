@@ -25,7 +25,7 @@ scrollBtn.click(function() {
   
     
 //MixSetup
-// const mixer = mixitup('.products__row');   
+ const mixer = mixitup('.products__row');   
     
     
     
